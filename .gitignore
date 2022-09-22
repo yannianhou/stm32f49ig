@@ -12,7 +12,9 @@
 *.iex
 *.sct
 *.map
+
 /Project/DebugConfig
+/Project/JLinkLog.txt
 
 *.ini
 *.scvd
